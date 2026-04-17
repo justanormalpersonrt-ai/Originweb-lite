@@ -8,10 +8,10 @@ const translations = {
     create_new: "Create new password",
     enter_old: "Enter old password",
     confirm_new: "Confirm new password",
-    wrong_old: "Incorrect old password",
-    not_match: "Passwords do not match",
+    wrong_old: "You stupid forget it huh?",
+    not_match: "Try again bruh",
     remove_success: "Password removed successfully",
-    forgot: "Forgot password",
+    forgot: "Bro so stupid to fucking forget the fucking password",
   },
   vi: {
     create_new: "Create new password",
